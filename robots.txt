@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-okxa11.vvv.capital/sitemap.xml
